@@ -6,8 +6,7 @@ body{
     height: 100vh;
     color: white;
     font-family: 'Poppins', sans-serif;
-    background: rgb(0, 99, 228);
-    overflow: hidden;
+    background: rgb(0, 110, 254);
 }   
 
 .gab{
@@ -18,7 +17,7 @@ body{
 }
 
 span{
-    color: rgb(125, 222, 255);
+    color: rgb(255, 91, 91);
 }
 
 .text-center{
@@ -118,7 +117,7 @@ a{
     margin-left: 11pc !important;
 }
 
-@media (max-width:678px){
+@media (max-width:660px){
     .box{
         margin-top: 2pc;
     }
